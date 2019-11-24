@@ -1,0 +1,9 @@
+C:\Users\Sanyi\source\repos\Eladasok\Eladasok\bin\Debug\Eladasok.exe.config
+C:\Users\Sanyi\source\repos\Eladasok\Eladasok\bin\Debug\Eladasok.exe
+C:\Users\Sanyi\source\repos\Eladasok\Eladasok\bin\Debug\Eladasok.pdb
+C:\Users\Sanyi\source\repos\Eladasok\Eladasok\obj\Debug\Eladasok.csprojAssemblyReference.cache
+C:\Users\Sanyi\source\repos\Eladasok\Eladasok\obj\Debug\Eladasok.Form1.resources
+C:\Users\Sanyi\source\repos\Eladasok\Eladasok\obj\Debug\Eladasok.Properties.Resources.resources
+C:\Users\Sanyi\source\repos\Eladasok\Eladasok\obj\Debug\Eladasok.csproj.GenerateResource.cache
+C:\Users\Sanyi\source\repos\Eladasok\Eladasok\obj\Debug\Eladasok.exe
+C:\Users\Sanyi\source\repos\Eladasok\Eladasok\obj\Debug\Eladasok.pdb

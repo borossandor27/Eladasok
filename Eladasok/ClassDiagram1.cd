@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Eladasok.Maganszemely">
+    <Position X="10.25" Y="4.5" Width="5.5" />
+    <InheritanceLine Type="Eladasok.Vevo" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.875" Y="4.045" />
+        <Point X="8.875" Y="5.688" />
+        <Point X="10.25" Y="5.688" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAQAAQAAAAAAAAEAIAAAAAAAAAAABCAAAAAAAgAAAA=</HashCode>
+      <FileName>Maganszemely.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Eladasok.Vallalkozas">
+    <Position X="2.5" Y="4.5" Width="4.75" />
+    <InheritanceLine Type="Eladasok.Vevo" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8" Y="4.045" />
+        <Point X="8" Y="5.688" />
+        <Point X="7.25" Y="5.688" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAEAAAAAAAAAAAAAACAAAAEBAAAAAA=</HashCode>
+      <FileName>Vallalkozas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Eladasok.Vevo">
+    <Position X="6.75" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAQAAAAAAAAEAAAIAAAAAAABAABAAQAAAAAABgA=</HashCode>
+      <FileName>Vevo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
